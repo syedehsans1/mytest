@@ -24,15 +24,15 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent" id="gtco-main-nav">
-    <div class="container"><a class="navbar-brand">EASOFTS<p style="font-size:10px">Electronic Advancement and Software Solutions</p></a>
+    <div class="container"><a class="navbar-brand"><img src="images/logo.png" width="12%" />EASOFTS<p style="font-size:10px">Electronic Advancement and Software Solutions</p></a>
         <button class="navbar-toggler" data-target="#my-nav" onclick="myFunction(this)" data-toggle="collapse"><span
                 class="bar1"></span> <span class="bar2"></span> <span class="bar3"></span></button>
         <div id="my-nav" class="collapse navbar-collapse">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                <li class="nav-item"><a class="nav-link" href="#"><span class="white">Home</span></a></li>
+                <li class="nav-item"><a class="nav-link" href="#services"><span class="white">Services</span></a></li>
+                <li class="nav-item"><a class="nav-link" href="#about"><span class="white">About</span></a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact"><span class="white">Contact</span></a></li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
                 <!-- <a href="#" class="btn btn-outline-dark my-2 my-sm-0 mr-3 text-uppercase">login</a> <a href="#"
